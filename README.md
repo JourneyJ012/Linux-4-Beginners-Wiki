@@ -18,7 +18,4 @@ Everything within the StartChain is intended to have minimal external URLs as to
 Where possible, this wiki should be hardware agnostic as to not confuse the user.
 If the user wants to learn more, we can guide them to the ArchWiki and Wikipedia. 
 
-
-
-
 Note: I am personally making this in [https://obsidian.md/](https://obsidian.md/), and any markdown contributed here should fit in with it for consistency.
