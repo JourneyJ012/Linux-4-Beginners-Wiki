@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5ea12fb99f6f092",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "df11a98397b4796d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
             "id": "210e61bfab543b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "221c16f22b14cbd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -63,8 +21,7 @@
               "title": "1-getting_started"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/StartChain/1-getting_started.md",
+                "file": "wiki/faq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1-getting_started"
+              "title": "Backlinks for faq"
             }
           },
           {
@@ -156,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/StartChain/1-getting_started.md",
+                "file": "wiki/faq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 1-getting_started"
+              "title": "Outgoing links from faq"
             }
           },
           {
@@ -199,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/StartChain/1-getting_started.md",
+                "file": "wiki/faq.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1-getting_started"
+              "title": "Outline of faq"
             }
           }
         ]
@@ -226,14 +183,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "221c16f22b14cbd1",
+  "active": "210e61bfab543b08",
   "lastOpenFiles": [
-    "wiki/index.md",
-    "wiki/StartChain/1-getting_started.md",
     "README.md",
+    "wiki/StartChain/1-getting_started.md",
+    "Untitled",
+    "wiki/index.md",
     "To-Do articles.md",
-    "wiki/StartChain",
     "wiki/faq.md",
+    "wiki/StartChain",
     "Windows.md"
   ]
 }
