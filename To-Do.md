@@ -1,0 +1,6 @@
+- Troubleshooting
+- Examples of Linux Desktop Environments
+- Installing Fedora
+- "Using Key Software" - **most software fits here**
+- Adding images
+- Re-format 5-installation_guide
