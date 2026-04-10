@@ -13,10 +13,15 @@ This is not targeted at anyone who already knows the names of more than 2 Linux 
 
 **The user is the number 1 priority.**
 
-Everything needs to be user friendly, and should not over-explain a concept.
+Everything needs to be user friendly, and should not over-explain a concept. The user should not need to know the difference between a Flatpak and a System Package.
 Everything within the StartChain is intended to have minimal external URLs as to not confuse the user. 
-Where possible, this wiki should be hardware agnostic as to not confuse the user.
-If the user wants to learn more, we can guide them to the ArchWiki and Wikipedia. 
+Where possible, this wiki should be hardware agnostic as to not confuse the user. 
 The default language should be en-US. Translations will be handled at a later date.
 
-Note: I am personally making this in [https://obsidian.md/](https://obsidian.md/), and any markdown contributed here should fit in with it for consistency.
+Note: I am personally making this in [https://obsidian.md/](https://obsidian.md/), and any markdown contributed here should fit in with it for consistency. It will be ported to another kind of markdown later, this is a temporary solution.
+
+## Contributing Guide
+
+Pick an incomplete, incorrect, or non-existing article that might be useful. The `using_key_software` folder looks very empty, for example. Write your changes, update the `wiki/meta/OS Complete Pages.md` file, and submit your PR.
+
+Only fix one problem per Pull Request. Feel free to make 20 PRs in a row.

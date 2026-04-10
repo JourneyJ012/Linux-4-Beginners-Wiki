@@ -1,1 +1,0 @@
-This should be a collection of images stored in ./wiki/images. Everything here needs to be dedicated to the AGPL V3.0 license or a more permissive license, or it will not be accepted.
