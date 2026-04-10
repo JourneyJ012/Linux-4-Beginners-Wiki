@@ -11,6 +11,9 @@ The lack of modern releases of Microsoft Office may cause issues for you. [Libre
 ### For the 3D Modeller
 On Linux, you can install Blender, Autodesk Maya and Mudbox, alongside Adobe Substance 3D Painter, Modeler, and Designer. Unfortunately, it does not have support for 3DS Max, Zbrush, among many other tools. CAD is also a weakpoint for Linux. FreeCAD is currently the only major CAD software available on Linux.
 
+### For the 2D artist
+Linux runs some quite popular 2D art applications, like Inkscape and Krita. Affinity is becoming easier to run, and there is also the GNU Image Manipulation Program, which is known for its STEEP learning curve and powerful tools.
+
 ### For the Gamer
 You are most likely* fine. The majority of games support Linux, although, of those that don't, a lot are large online titles such as Fortnite, League of Legends, Valorant, Call of Duty, among a few others. 
 
