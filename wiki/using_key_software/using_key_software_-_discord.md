@@ -1,0 +1,1 @@
+Discord is a messaging platform focused on gamers, that has both direct messages between people and servers, which are similar to public/private rooms.
