@@ -17,3 +17,5 @@ Fedora Linux is a lot more cutting-edge, having the latest versions of most Linu
 | Less focused on beginners     | **More focused on beginners**        |
 | More customisable             | More windows-themed                  |
 | 2 releases per year           | Smaller releases per year            |
+## To Carry On
+[[5-installation_guide|Guide to Installing Linux]]
