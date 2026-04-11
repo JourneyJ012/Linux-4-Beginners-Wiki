@@ -12,3 +12,6 @@ Next up is the system settings. This is where you can change almost everything a
 To install apps, check out the software manager. Feel free to install some applications to use later. For gamers, Steam and Heroic Games Launcher is present. For Home Offices, both LibreOffice and OnlyOffice are here. VLC is a fan favorite, alongside Blender for 3D modellers and Spotify too.
 
 The firewall here is fairly simple. Set it to "Office" or "Home" for a generally unobtrusive experience. 
+
+## To Carry On
+[[7-system_upkeep|System Upkeep]]
