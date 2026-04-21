@@ -1,3 +1,7 @@
+---
+Distros: Linux Mint
+---
+
 To follow this guide, you will need:
 - A working system
 - A USB Flash Drive you are willing to clean (around 8GB should be enough)

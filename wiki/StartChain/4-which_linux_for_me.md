@@ -1,3 +1,7 @@
+---
+Distros: Fedora, Linux Mint
+---
+
 ## Deciding your Linux Distribution
 This is one of the final steps before switching. You've read up on what you're getting into, and now you're nearly here.
 

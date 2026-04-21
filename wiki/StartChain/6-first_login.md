@@ -1,3 +1,7 @@
+---
+Distros: Linux Mint
+---
+
 ## Linux Mint
 You will be greeted by a login screen. Enter your password and launch. Feel free to go through each of the apps in the first step. Take as much time as you want customizing your desktop colors.
 

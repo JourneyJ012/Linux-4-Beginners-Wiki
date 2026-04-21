@@ -1,3 +1,7 @@
+---
+Distros: Linux Mint
+---
+
 Firefox is a web browser based on an entirely different codebase that the Chromium set of browsers (Edge, Chrome, Brave).
 
 ## Installation
