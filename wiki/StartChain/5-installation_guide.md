@@ -8,7 +8,7 @@ To follow this guide, you will need:
 This article is primarily written for people who are switching **from** Windows 8.1 through 11 to Linux.
 
 ## Before you begin (important)
-This guide is specifically for people who will *only* be using Linux from here on out. Your Windows, and all the contents involved with it, will be *gone* after this. Make sure to export any documents, IDs, passwords, work, or anything else to a cloud storage such as [Google Drive](drive.google.com), [OneDrive](https://onedrive.live.com/login), or [DropBox](http://dropbox.com/)
+This guide is specifically for people who will *only* be using Linux from here on out. Your Windows, and all the contents involved with it, will be *gone* after this. Make sure to export any documents, IDs, passwords, work, or anything else to a cloud storage such as [Google Drive](https://drive.google.com), [OneDrive](https://onedrive.live.com/login), or [DropBox](http://dropbox.com/)
 
 ## Linux Mint
 
