@@ -18,7 +18,7 @@ Fedora Linux is a lot more cutting-edge, having the latest versions of most Linu
 | ----------------------------- | ------------------------------------ |
 | **Brand new software**        | typically 0-1 versions behind        |
 | May require the terminal more | **Probably won't need the terminal** |
-| Less focused on beginners     | **More focused on beginners**        |
+| Less focused on beginners     | **More beginner friendly**           |
 | More customisable             | More windows-themed                  |
 | 2 releases per year           | Smaller releases per year            |
 ## To Carry On
