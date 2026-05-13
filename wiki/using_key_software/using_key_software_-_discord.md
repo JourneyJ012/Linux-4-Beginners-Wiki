@@ -1,7 +1,6 @@
 ---
-Distros: Linux Mint
+Distros: Fedora, Linux Mint
 ---
-
 
 Discord is a messaging platform focused on gamers, that has both direct messages between people and servers, which are similar to public/private rooms.
 
@@ -12,3 +11,4 @@ Linux is almost perfectly on par with Windows, although there are some minor iss
 Go to the Software Manager application, search "Discord" in the top left, and look for the one titled Discord, and press "Install".
 
 ### Fedora
+Download [Discord](https://discord.com/api/download?platform=linux&format=rpm) from the RPM, click on the downloaded file, select "Install from .../discord-x.y.z.rpm", type your password into the box, and then launch Discord. It may state that it is "Downloading Discord", and then it should let you into Discord.
