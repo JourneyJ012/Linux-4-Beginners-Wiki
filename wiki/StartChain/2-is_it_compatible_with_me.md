@@ -20,5 +20,12 @@ You are most likely* fine. The majority of games support Linux, although, of tho
 If you wish to see a list of supported online games, [AreWeAntiCheat](https://areweanticheatyet.com/) (AWAC) maintain a list.
 If you wish to see a list of supported games on Linux in general, [ProtonDB](https://www.protondb.com/) focuses on every Steam game. AWAC is the first place to look for online games, whilst almost everything else is on ProtonDB. 
 
+### For the Programmer
+You'll do great. This wiki is built for people who will be figuring out Linux for the first time, and need an extra hand to hold them. You can help build it instead.
+
+If you use a VM or VPS, there's a good shot it's running on Linux anyway. Docker is built best for Linux, Visual Studio Code is built for Linux, Jetbrains is built for Linux, and you can learn Vim. **Visual Studio does not run on Linux, and neither do MAUI apps**, so C# can be slightly worse depending on your goal. For games engines, Godot, Unreal and Unity all build for Linux.
+
+Beyond this wiki, you may want to look at NixOS. It is a complex Linux distribution, but creates fully reproducible environments.
+
 ## To Carry on
 [[3-dispelling_rumors|Dispelling popular rumors about Linux]]
